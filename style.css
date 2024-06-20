@@ -398,8 +398,9 @@ li {
     }
 }
 
-/*.before-track-btn, 
-.next-track-btn,*/ 
+.play-random-btn,
+.before-track-btn, 
+.next-track-btn, 
 .volume-inc,
 .volume-dec,
 .album-info {
@@ -411,7 +412,7 @@ li {
 }
 
 .play-pause-btn {
-    font-size: 30px;
+    font-size: 35px;
     border: none;
     background-color: black;
     color: white;

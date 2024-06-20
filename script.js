@@ -1,3 +1,4 @@
+var maxSongs = 273;
 var currentSongId;
 
 function main() {
@@ -304,14 +305,59 @@ function doVolumeDec() {
 function doPlayPause()
 {
     player = document.getElementById("player");
-    playPauseBtn = document.getElementById("play_pause_btn");
 
     if (player.paused) {
+        var icon = document.querySelector('i.fa-play-circle-o');
+        if (icon) {
+            // Altera a classe para 'fa-pause-circle-o'
+            icon.classList.remove('fa-play-circle-o');
+            icon.classList.add('fa-pause-circle-o');
+        }
         player.play();
-        playPauseBtn.textContent = "||";
     }else {
+        var icon = document.querySelector('i.fa-pause-circle-o');
+        if (icon) {
+            // Altera a classe para 'fa-pause-circle-o'
+            icon.classList.remove('fa-pause-circle-o');
+            icon.classList.add('fa-play-circle-o');
+        }
         player.pause();
-        playPauseBtn.textContent = "▶";
+    }
+}
+
+function doBeforeTrack()
+{
+    let thisSong = parseInt(currentSongId);
+    let beforeSongTrack = thisSong - 1;
+            
+    var beforeButton = document.getElementById(beforeSongTrack);
+    
+    if (beforeButton) {
+        beforeButton.click();
+    }
+}
+
+function doNextTrack()
+{
+    let thisSong = parseInt(currentSongId);
+
+    let nextSongTrack = thisSong + 1;
+            
+    var nextButton = document.getElementById(nextSongTrack);
+    
+    if (nextButton) {
+        nextButton.click();
+    }
+}
+
+function playRandom()
+{
+    let thisSong = Math.floor(Math.random() * maxSongs);
+            
+    var nextButton = document.getElementById(thisSong);
+    
+    if (nextButton) {
+        nextButton.click();
     }
 }
 
