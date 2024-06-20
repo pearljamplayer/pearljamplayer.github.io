@@ -399,8 +399,10 @@ li {
 }
 
 .play-random-btn,
+.play-repeat-btn,
 .before-track-btn, 
 .next-track-btn, 
+.stop-btn,
 .volume-inc,
 .volume-dec,
 .album-info {

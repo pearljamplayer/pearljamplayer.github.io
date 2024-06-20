@@ -1,5 +1,7 @@
 var maxSongs = 273;
 var currentSongId;
+var isRandom = false;
+var isRepeat = false;
 
 function main() {
     fetch('albums.json')
@@ -209,7 +211,6 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
     var duration = document.getElementById("time_end");
     var currentTime = document.getElementById("time_current");
     var timeRange = document.querySelector(".time-range");
-    var playPauseBtn = document.getElementById("play_pause_btn");
     var songItem = document.getElementById(songId);
 
     currentSongId = songId;
@@ -259,21 +260,37 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
         }
     };
 
-    playPauseBtn.textContent = "||";
+    var icon = document.querySelector('i.fa-play-circle-o');
+    if (icon) {
+        icon.classList.remove('fa-play-circle-o');
+        icon.classList.add('fa-pause-circle-o');
+    }
 
     player.onended = function() {
         let thisSong = parseInt(currentSongId);
         if (isEnded) { // finish album
             player.pause();
             coverImg.src = "https://posterplus.com.au/files/2021/04/BLC5039-pearl-jam.jpg";
-            playPauseBtn.textContent = "▶";
+            var icon = document.querySelector('i.fa-pause-circle-o');
+            if (icon) {
+                icon.classList.remove('fa-pause-circle-o');
+                icon.classList.add('fa-play-circle-o');
+            }
             currentSongId = 0;
             player.currentTime = 0;
             duration.textContent = "00:00";
             title.textContent = "Let the Records Play...";
             songLyrics = "";
         }else { // play the next song
-            let nextSongTrack = thisSong + 1;
+            let nextSongTrack = 0;
+            if (isRandom == true) {
+                nextSongTrack = Math.floor(Math.random() * maxSongs);
+            }else if (isRepeat == true) {
+                nextSongTrack = thisSong;
+            }else {
+                nextSongTrack = thisSong + 1;
+            }
+            
             
             // Select the button with the ID equal to the new songTrack
             var nextButton = document.getElementById(nextSongTrack);
@@ -286,6 +303,8 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
     };
     
     songItem.style.color = "#797979";
+
+    console.log(isRandom);
 }
 
 function doVolumeInc() {
@@ -309,7 +328,6 @@ function doPlayPause()
     if (player.paused) {
         var icon = document.querySelector('i.fa-play-circle-o');
         if (icon) {
-            // Altera a classe para 'fa-pause-circle-o'
             icon.classList.remove('fa-play-circle-o');
             icon.classList.add('fa-pause-circle-o');
         }
@@ -317,7 +335,6 @@ function doPlayPause()
     }else {
         var icon = document.querySelector('i.fa-pause-circle-o');
         if (icon) {
-            // Altera a classe para 'fa-pause-circle-o'
             icon.classList.remove('fa-pause-circle-o');
             icon.classList.add('fa-play-circle-o');
         }
@@ -328,7 +345,11 @@ function doPlayPause()
 function doBeforeTrack()
 {
     let thisSong = parseInt(currentSongId);
+    
     let beforeSongTrack = thisSong - 1;
+    if (isRandom == true) {
+        beforeSongTrack = Math.floor(Math.random() * beforeSongTrack);
+    }
             
     var beforeButton = document.getElementById(beforeSongTrack);
     
@@ -342,7 +363,10 @@ function doNextTrack()
     let thisSong = parseInt(currentSongId);
 
     let nextSongTrack = thisSong + 1;
-            
+    if (isRandom == true) {
+        nextSongTrack = Math.floor(nextSongTrack + Math.random() * maxSongs);
+    }
+
     var nextButton = document.getElementById(nextSongTrack);
     
     if (nextButton) {
@@ -353,11 +377,34 @@ function doNextTrack()
 function playRandom()
 {
     let thisSong = Math.floor(Math.random() * maxSongs);
-            
     var nextButton = document.getElementById(thisSong);
+    var randomIcon = document.getElementById('random_icon');
+    // if random never repeat
+    var repeatIcon = document.getElementById('repeat_icon');
+
+    if (isRandom == true) {
+        isRandom = false;
+        randomIcon.style.color = '#fff';
+    }else {
+        isRandom = true;
+        randomIcon.style.color = '#919191';
+        repeatIcon.style.color = '#fff';
+        if (nextButton) {
+            nextButton.click();
+        }
+    }
+}
+
+function playRepeat()
+{
+    var repeatIcon = document.getElementById('repeat_icon');
     
-    if (nextButton) {
-        nextButton.click();
+    if (isRepeat == true) {
+        isRepeat = false;
+        repeatIcon.style.color = '#fff';
+    }else if (isRandom == false) { // repeat only if random is false
+        isRepeat = true;
+        repeatIcon.style.color = '#919191';
     }
 }
 
