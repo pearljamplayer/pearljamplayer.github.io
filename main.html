@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Pearl Jam Player" />
+    <meta property="og:description" content="Pearl Jam Album Player" />
+    <meta property="og:image" content="./favicon.png" />
+    <meta property="og:image:width" content="271" />
+    <meta property="og:image:height" content="300" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://pearljamplayer.github.io/" />
+    <link rel="icon" type="image/x-icon" href="./favicon.png">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Pearl Jam Player</title>
+</head>
+<body>
+    <nav class="navigation">
+        <div class="nav-links">
+            <a class="link-logo" href="#"><img class="logo" src="https://i.pinimg.com/originals/1d/01/71/1d0171b99141907e871058cd370b7e2f.png" alt=""></a>
+            <a class="link-item" href="#albums">albums</a>
+            <a class="link-item" href="#more">More</a>
+        </div>
+        <section>
+            <div class="layout-lyrics" id="layout_lyrics"></div>
+        </section>
+    </nav>
+
+    <section id="title" class="title">
+        <h1>Player</h1>
+
+        <!-- Search area  (per album name)-->
+        <div class="search">
+            <input id="search_input" class="search-input" type="text" placeholder="Search an album">
+            <a id="search_btn" class="search-btn" href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
+        </div>
+
+        <img class="title-img" src="https://pearljamconcertchronology.com/images/pearljam.jpg" alt="">
+    </section>
+    
+    <section id="albums" class="albums"></section>
+    
+    <section id="more" class="more">
+        <a href="https://pearljam.com/home">PJ</a>
+    </section>
+
+    <section class="music-player">
+        <div id="player_container" class="player-container">
+            <img id="player-cover-img" class="player-cover-img" src="https://magazine-resources.tidal.com/uploads/2021/08/Pearl_Jam.03.SonyMusic-1-1280x1003.jpg" alt="">
+            <audio id="player" preload="metadata">
+                <source src="" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            <div class="track-info">
+                <span id="song_title" class="song-title">Play something...</span>
+            </div>
+            <div class="controls">
+                <button id="volume_dec" class="volume-dec" onclick="doVolumeDec()"><i class="fa fa-volume-down fa-2xs" aria-hidden="true"></i></button>
+                <!--button id="before_track_btn" class="before-track-btn" onclick="doBeforeTrack()"><</button-->
+                <button id="play_pause_btn" class="play-pause-btn" onclick="doPlayPause()">▶</button>
+                <!--button id="next_track_btn" class="next-track-btn" onclick="doNextTrack()">></button-->
+                <button id="volume_inc" class="volume-inc" onclick="doVolumeInc()"><i class="fa fa-volume-up fa-2xs" aria-hidden="true"></i></button>
+                
+                <div class="timeline">
+                    <span id="time_current" class="time-current">00:00</span>
+                    <input class="time-range" type="range" name="time">
+                    <output for="time" onforminput="value = time.valueAsNumber;"></output>
+                    <span id="time_end" class="time-end">00:00</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="modalImg">
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>

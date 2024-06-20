@@ -1,0 +1,6 @@
+RewriteEngine On
+
+# redirect any file that is not HTML for 404.html
+
+RewriteCond %{REQUEST_URI} !/404.html$
+RewriteRule !\.(html|js|css|png)$ /404.html [L,R=301]
