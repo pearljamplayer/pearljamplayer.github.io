@@ -3061,5 +3061,90 @@
                 "lyrics": ""
             }
         ]
+    },
+    "Live_@_RKCNDY_1991-08-29": {
+        "name": "Live @ RKCNDY 1991-08-29",
+        "year": 1991,
+        "info": "This ASCAP showcase is Pearl Jam's first show after Ten is released. Mike plays the end of ''Alive'' atop Eddie's shoulders. Eddie swings from the rafters for ''Porch'' high above the crowd. He swings back and forth and finally lets go, falling into the crowd. He's back on stage in a flash to bash the cymbals with his microphone. All this for a $5 cover!",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_RKCNDY_1991-08-29/artwork/01-cover.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_RKCNDY_1991-08-29/artwork/02-lineup.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_RKCNDY_1991-08-29/artwork/03-setlist.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_RKCNDY_1991-08-29/artwork/04-poster.jpg"
+        ],
+        "songs": [
+            {
+                "id": 296,
+                "track": 1,
+                "title": "Once",
+                "duration": "2:41",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_RKCNDY_1991-08-29/01_Once.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 297,
+                "track": 2,
+                "title": "Even Flow",
+                "duration": "4:47",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_RKCNDY_1991-08-29/02_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 298,
+                "track": 3,
+                "title": "State Of Love And Trust",
+                "duration": "4:06",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_RKCNDY_1991-08-29/03_State_Of_Love_And_Trust.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 299,
+                "track": 4,
+                "title": "Banter",
+                "duration": "1:08",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_RKCNDY_1991-08-29/04_Banter.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 300,
+                "track": 5,
+                "title": "Alive",
+                "duration": "5:40",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_RKCNDY_1991-08-29/05_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 301,
+                "track": 6,
+                "title": "Banter",
+                "duration": "0:50",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_RKCNDY_1991-08-29/06_Banter.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 302,
+                "track": 7,
+                "title": "Jeremy",
+                "duration": "4:59",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_RKCNDY_1991-08-29/07_Jeremy.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 303,
+                "track": 8,
+                "title": "Why Go",
+                "duration": "4:02",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_RKCNDY_1991-08-29/08_Why_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 304,
+                "track": 9,
+                "title": "Porch",
+                "duration": "5:10",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_RKCNDY_1991-08-29/09_Porch.mp3",
+                "lyrics": ""
+            }
+        ]
     }
 }
