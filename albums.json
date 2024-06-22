@@ -2838,5 +2838,228 @@
                 "lyrics": ""
             }
         ]
+    },
+    "Live_@_Wetlands_Preserve_1991-07-17": {
+        "name": "Live @ Wetlands Preserve 1991-07-17",
+        "year": 1991,
+        "info": "Second show of the New Music Seminar, in New York City, NY, USA. Relaxed, fun performance. ''State Of Love And Trust'' is a bit different. Motörhead front man Lemmy Kilmister is among the audience members.",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/01-cover.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/02-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/03-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/04-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/05-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/06-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/07-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/08-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/09-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/10-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/11-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/12-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/13-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/artwork/14-shot.jpg"
+            
+        ],
+        "songs": [
+            {
+                "id": 274,
+                "track": 1,
+                "title": "Wash",
+                "duration": "4:00",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/01_Wash.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 275,
+                "track": 2,
+                "title": "Once",
+                "duration": "3:48",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/02_Once.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 276,
+                "track": 3,
+                "title": "Even Flow",
+                "duration": "5:34",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/03_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 277,
+                "track": 4,
+                "title": "Alive",
+                "duration": "6:27",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/04_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 278,
+                "track": 5,
+                "title": "State Of Love And Trust",
+                "duration": "4:57",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/05_State_Of_Love_And_Trust.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 279,
+                "track": 6,
+                "title": "Black",
+                "duration": "4:20",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/06_Black.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 280,
+                "track": 7,
+                "title": "Why Go",
+                "duration": "4:04",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/07_Why_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 281,
+                "track": 8,
+                "title": "Garden",
+                "duration": "5:18",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/08_Garden.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 282,
+                "track": 9,
+                "title": "Porch",
+                "duration": "5:14",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/09_Porch.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 283,
+                "track": 10,
+                "title": "Alone",
+                "duration": "3:26",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/10_Alone.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 284,
+                "track": 11,
+                "title": "Breath",
+                "duration": "7:43",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Wetlands_Preserve_1991-07-17/11_Breath.mp3",
+                "lyrics": ""
+            }
+        ]
+    },
+    "Live_@_Mural_Amphitheater_1991-08-23": {
+        "name": "Live @ Mural Amphitheater 1991-08-23",
+        "year": 1991,
+        "info": "Pearl Jam play their first outdoor show. This is also Dave Abbruzzese's first concert drumming with Pearl Jam and the last show of the free ''91 Sounds of Seattle'' concert series (later called ''Pain in the Grass''). As an intro to ''Porch'', Eddie says, ''This song is about if you love someone, tell him''. Eddie climbs the speaker stacks during ''Porch'' and glances over his shoulder at the Space Needle. Eddie takes Jeff's basketball from behind the speakers and throws it playfully into the crowd. The ball makes its way back to the stage during ''Breath'', which is played wonderfully. ''Jeremy'' is on the setlist but not played. After the show the band held an ''exclusive first-listen preview party'' for Ten at the Phantom nightclub, across Fifth Avenue North from where the Museum of Pop Culture stands now.",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/01-cover.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/02-setlist.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/03-event.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/04-ad.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/05-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/06-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/07-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/08-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/09-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/10-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/11-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/12-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/13-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/artwork/14-shot.jpg"
+        ],
+        "songs": [
+            {
+                "id": 285,
+                "track": 1,
+                "title": "Intro",
+                "duration": "0:12",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/01_Intro.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 286,
+                "track": 2,
+                "title": "Once",
+                "duration": "3:08",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/02_Once.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 287,
+                "track": 3,
+                "title": "State Of Love And Trust",
+                "duration": "4:02",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/03_State_Of_Love_And_Trust.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 288,
+                "track": 4,
+                "title": "Even Flow",
+                "duration": "5:05",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/04_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 289,
+                "track": 5,
+                "title": "Garden",
+                "duration": "5:35",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/05_Garden.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 290,
+                "track": 6,
+                "title": "Alive",
+                "duration": "4:59",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/06_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 291,
+                "track": 7,
+                "title": "Black",
+                "duration": "5:18",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/07_Black.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 292,
+                "track": 8,
+                "title": "Deep",
+                "duration": "3:58",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/08_Deep.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 293,
+                "track": 9,
+                "title": "Why Go",
+                "duration": "3:47",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/09_Why_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 294,
+                "track": 10,
+                "title": "Porch",
+                "duration": "4:57",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/10_Porch.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 295,
+                "track": 11,
+                "title": "Breath",
+                "duration": "6:44",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Mural_Amphitheater_1991-08-23/11_Breath.mp3",
+                "lyrics": ""
+            }
+        ]
     }
 }
