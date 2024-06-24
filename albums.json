@@ -3280,5 +3280,103 @@
                 "lyrics": ""
             }
         ]
+    },
+    "Live_@_Palladium_1991-10-06": {
+        "name": "Live @ Palladium 1991-10-06",
+        "year": 1991,
+        "info": "The concert happened in the Hollywood Palladium, Los Angeles, CA. It was the RIP Magazine 5th Anniversary. Eddie comments that it was ''a year ago tomorrow'' since he met the band. This showcase show also featured Spinal Tap, Alice in Chains, Screaming Jets, Soundgarden and Thunder. A ''special surprise guest'' (rumored to be Metallica) was supposed to play, but it was announced that there was a mix up but the night wasn't over and, ''... so the Seattle theme continues... ladies and gentlemen, Temple of the Dog!''. Now the crowd has dwindled to only 500 people, but three songs are performed: ''Hunger Strike'', ''Reach Down'' and ''Pushin Forward Back'', together with Jerry Cantrell.",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/01-cover.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/02-ticket.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/03-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/04-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/05-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/06-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/07-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/08-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/09-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/10-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/11-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/12-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/13-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/14-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/15-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/16-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/17-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/18-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/19-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/20-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/21-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/22-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/23-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/24-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/25-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/26-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/27-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/28-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/29-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/30-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/31-shot.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Palladium_1991-10-06/artwork/32-shot.jpg"
+        ],
+        "video": "https://www.dailymotion.com/video/x90u3dc",
+        "songs": [
+            {
+                "id": 317,
+                "track": 1,
+                "title": "Wash",
+                "duration": "3:42",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Palladium_1991-10-06/01_Wash.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 318,
+                "track": 2,
+                "title": "Once",
+                "duration": "3:42",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Palladium_1991-10-06/02_Once.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 319,
+                "track": 3,
+                "title": "Even Flow",
+                "duration": "5:09",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Palladium_1991-10-06/03_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 320,
+                "track": 4,
+                "title": "Alive",
+                "duration": "5:31",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Palladium_1991-10-06/04_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 321,
+                "track": 5,
+                "title": "Jeremy",
+                "duration": "5:05",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Palladium_1991-10-06/05_Jeremy.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 322,
+                "track": 6,
+                "title": "Why Go",
+                "duration": "3:59",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Palladium_1991-10-06/06_Why_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 323,
+                "track": 7,
+                "title": "Porch",
+                "duration": "3:42",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Palladium_1991-10-06/07_Porch.mp3",
+                "lyrics": ""
+            }
+        ]
     }
 }
