@@ -3378,5 +3378,155 @@
                 "lyrics": ""
             }
         ]
+    },
+    "Live_@_Oscar_Mayer_Theater_1991-10-16": {
+        "name": "Live @ Oscar Mayer Theater 1991-10-16",
+        "year": 1991,
+        "info": "The concert happened at the Oscar Mayer Theater, Maddison, WI. Before ''Even Flow'' Eddie mentions: ''Do you guys feel lucky tonight? I mean is your blood pumping? This is our first show with the Red Hot Chili Peppers. You should feel lucky, and I feel lucky to be playing''. During ''Porch'' Eddie climbed the amps to the side balcony, then to the outside of the balcony, then around to the other side, and then dropped into the pit.",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Oscar_Mayer_Theater_1991-10-16/artwork/01-cover.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Oscar_Mayer_Theater_1991-10-16/artwork/02-ticket.jpg"
+        ],
+        "songs": [
+            {
+                "id": 324,
+                "track": 1,
+                "title": "Wash",
+                "duration": "2:42",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Oscar_Mayer_Theater_1991-10-16/01_Wash.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 325,
+                "track": 2,
+                "title": "Once",
+                "duration": "3:32",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Oscar_Mayer_Theater_1991-10-16/02_Once.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 326,
+                "track": 3,
+                "title": "Even Flow",
+                "duration": "5:28",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Oscar_Mayer_Theater_1991-10-16/03_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 327,
+                "track": 4,
+                "title": "Why Go",
+                "duration": "3:26",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Oscar_Mayer_Theater_1991-10-16/04_Why_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 328,
+                "track": 5,
+                "title": "Deep",
+                "duration": "4:35",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Oscar_Mayer_Theater_1991-10-16/05_Deep.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 329,
+                "track": 6,
+                "title": "Alive",
+                "duration": "5:33",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Oscar_Mayer_Theater_1991-10-16/06_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 330,
+                "track": 7,
+                "title": "Porch",
+                "duration": "5:34",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Oscar_Mayer_Theater_1991-10-16/07_Porch.mp3",
+                "lyrics": ""
+            }
+        ]
+    },
+    "Live_@_Central_Park_Ballroom_1991-10-22": {
+        "name": "Live @ Central Park_Ballroom 1991-10-22",
+        "year": 1991,
+        "info": "The concert happened at Central Park Ballroom, Milwaukee, WI. While Pearl Jam hit the stage Master/Slave plays on the PA Sound system. Ed: ''Hello, so you guys are all in here? You've been searched, you're safe now''. After ''Once'', Eddie says ''Just let me tell ya that is going to be a long night, everybody will get along in the front as one''. ''Alive'' is dedicated to ''... everyone who came out from Chicago, with love''. Eddie is given a flower and comments, ''This is the first flower I ever got. I think I'm gonna eat it!''.",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Central_Park_Ballroom_1991-10-22/artwork/01-cover.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Central_Park_Ballroom_1991-10-22/artwork/02-ticket.jpg"
+        ],
+        "songs": [
+            {
+                "id": 331,
+                "track": 1,
+                "title": "Intro",
+                "duration": "0:37",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Central_Park_Ballroom_1991-10-22/01_Intro.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 332,
+                "track": 2,
+                "title": "Wash",
+                "duration": "3:42",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Central_Park_Ballroom_1991-10-22/02_Wash.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 333,
+                "track": 3,
+                "title": "Once",
+                "duration": "3:21",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Central_Park_Ballroom_1991-10-22/03_Once.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 334,
+                "track": 4,
+                "title": "Even Flow",
+                "duration": "5:05",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Central_Park_Ballroom_1991-10-22/04_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 335,
+                "track": 5,
+                "title": "Alive",
+                "duration": "5:53",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Central_Park_Ballroom_1991-10-22/05_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 336,
+                "track": 6,
+                "title": "Suggestion",
+                "duration": "0:17",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Central_Park_Ballroom_1991-10-22/06_Suggestion.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 337,
+                "track": 7,
+                "title": "Jeremy",
+                "duration": "5:08",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Central_Park_Ballroom_1991-10-22/07_Jeremy.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 338,
+                "track": 8,
+                "title": "Why Go",
+                "duration": "3:34",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Central_Park_Ballroom_1991-10-22/08_Why_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 339,
+                "track": 9,
+                "title": "Porch",
+                "duration": "5:16",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Central_Park_Ballroom_1991-10-22/09_Porch.mp3",
+                "lyrics": ""
+            }
+        ]
     }
 }
