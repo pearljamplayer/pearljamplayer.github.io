@@ -3528,5 +3528,72 @@
                 "lyrics": ""
             }
         ]
+    },
+    "Live_@_MSU_Auditorium_1991-10-23": {
+        "name": "Live @ MSU Auditorium 1991-10-23",
+        "year": 1991,
+        "info": "The concert happened at the MSU Auditorium, East Lansing, MI, USA.",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_MSU_Auditorium_1991-10-23/artwork/01-cover.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_MSU_Auditorium_1991-10-23/artwork/02-banner.jpg"
+        ],
+        "songs": [
+            {
+                "id": 340,
+                "track": 1,
+                "title": "Wash",
+                "duration": "1:25",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_MSU_Auditorium_1991-10-23/01_Wash.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 341,
+                "track": 2,
+                "title": "Once",
+                "duration": "3:25",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_MSU_Auditorium_1991-10-23/02_Once.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 342,
+                "track": 3,
+                "title": "Even Flow",
+                "duration": "4:54",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_MSU_Auditorium_1991-10-23/03_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 343,
+                "track": 4,
+                "title": "Alive",
+                "duration": "5:35",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_MSU_Auditorium_1991-10-23/04_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 344,
+                "track": 5,
+                "title": "Jeremy",
+                "duration": "4:59",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_MSU_Auditorium_1991-10-23/05_Jeremy.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 345,
+                "track": 6,
+                "title": "Why Go",
+                "duration": "3:14",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_MSU_Auditorium_1991-10-23/06_Why_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 346,
+                "track": 7,
+                "title": "Porch",
+                "duration": "4:50",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_MSU_Auditorium_1991-10-23/07_Porch.mp3",
+                "lyrics": ""
+            }
+        ]
     }
 }
