@@ -1,4 +1,4 @@
-var maxSongs = 230;
+var maxSongs = 354;
 var currentSongId;
 var isRandom = false;
 var isRepeat = false;
