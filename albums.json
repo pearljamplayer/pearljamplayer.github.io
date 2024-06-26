@@ -3595,5 +3595,84 @@
                 "lyrics": ""
             }
         ]
+    },
+    "Live_@_Cleveland_Music_Hall_1991-10-26": {
+        "name": "Live @ Cleveland Music Hall 1991-10-26",
+        "year": 1991,
+        "info": "The concert hapened at the Cleveland Music Hall, Cleveland, OH, USA. Entering to the opening music of ''Master/Slave'', Eddie greets a sparse crowd before starting ''Wash'': ''Hello. Where is everybody? Smokin' beer? Drinkin' pot? For you guys who've come early, we'll make it worth your while''. Still not awake, Eddie chides the crowd a second time: ''It's the weirdest thing, I'm looking out at you. I feel like... it's just like a big movie, and I'm looking out at all you guys and it just looks like a big theater. It looks really boring. So if you feel like standing up and moving around or something, do it up''. ''Once'' is powerful and energetic, getting a few on their feet (''Feels good!'' Eddie yells during the first verse). To those who may be uninformed, Eddie says ''So tonight we're the representative band from Seattle. You got Chicago (Smashing Pumpkins), you got Hollywood (Red Hot Chili Peppers). It's a beautiful night, this is Seattle'' leading into ''Even Flow''. On the finale, ''Porch,'' Eddie jumps down into the audience, bringing eight fans up on stage for a wild, dancing climax.",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/artwork/01-cover.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/artwork/02-poster.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/artwork/03-poster.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/artwork/04-poster.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/artwork/05-poster.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjpdb/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/artwork/06-poster.jpg"
+        ],
+        "songs": [
+            {
+                "id": 347,
+                "track": 1,
+                "title": "Intro",
+                "duration": "1:16",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/01_Intro.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 348,
+                "track": 2,
+                "title": "Wash",
+                "duration": "4:01",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/02_Wash.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 349,
+                "track": 3,
+                "title": "Once",
+                "duration": "3:32",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/03_Once.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 350,
+                "track": 4,
+                "title": "Even Flow",
+                "duration": "5:14",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/04_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 351,
+                "track": 5,
+                "title": "Alive",
+                "duration": "5:41",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/05_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 352,
+                "track": 6,
+                "title": "Jeremy",
+                "duration": "5:33",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/06_Jeremy.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 353,
+                "track": 7,
+                "title": "Why Go",
+                "duration": "3:05",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/07_Why_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 354,
+                "track": 8,
+                "title": "Porch",
+                "duration": "4:19",
+                "url": "https://github.com/pearljamplayer/pjpdb/raw/main/albums/live/Live_@_Cleveland_Music_Hall_1991-10-26/08_Porch.mp3",
+                "lyrics": ""
+            }
+        ]
     }
 }
