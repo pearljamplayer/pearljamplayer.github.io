@@ -1873,7 +1873,6 @@
                 "duration": "5:58",
                 "url": "https://github.com/pearljamplayer/pjdbstudio/raw/main/2009-Ten_Redux/14_Breath.mp3",
                 "lyrics": "[id: 181]\\n[ar: Pearl Jam]\\n[ti: Breath]\\n[al: Ten Redux]\\n[length: 05:58]\\n[00:34.72]Oh, tonight began with anything\\n[00:46.37]Shaft of a light, a warm breath and a scream\\n[00:53.88]Ah, yeah\\n[00:57.16]Oh, tamper if you like between the doors\\n[01:05.57]Oh yeah, huh, huh\\n[01:08.61]Oh, can\\'t expect to go out, to go out with anything, anything more\\n[01:20.67]Oh reach the door, a breath and a\\n[01:26.43]Oh reach the door, and a la la la yeah\\n[01:32.10]Life ain\\'t what it\\'s worth\\n[01:36.48]A breath and a, oh reach the door\\n[01:41.52]\\n[01:43.96]All these reaching hands out grabbing things, grabbing me\\n[01:54.93]Day in day out accumulating, ah yeah\\n[02:05.81]Whoa, I suggest you step out on your porch\\n[02:13.55]Oh yeah, huh, huh, huh huh, yeah\\n[02:18.32]Run away my son\\n[02:22.67]See it all\\n[02:25.52]Oh see the world\\n[02:28.86]Oh reach the door, a breath and a\\n[02:35.38]Oh reach the door, and a la la la yeah\\n[02:41.09]Life ain\\'t what it\\'s worth\\n[02:45.57]A breath and a, oh reach the door\\n[02:52.91]Come, here it comes, there it goes, when it comes\\n[02:55.34]Where it goes, where it comes\\n[02:56.92]Can\\'t see through the faith, woah\\n[03:01.14]\\n[03:03.22]Ooh, come, here it comes, there it goes\\n[03:06.29]Grasp what you can\\n[03:08.01]Don\\'t you know there\\'s something inside your head, yeah\\n[03:15.36]Oh, if I knew where it was, I would take you there\\n[03:24.85]There\\'s much more than this\\n[03:28.16]Ooh, whoa, much more than this\\n[03:33.66]Oh, see the world, much more than\\n[03:38.67]\\n[03:48.69]Much more than\\n[03:51.21]\\n[04:03.72]Oh yeah\\n[04:05.41]\\n"
-            
             },
             {
                 "id": 182,
@@ -2657,7 +2656,7 @@
     "Live_@_JC_Dobbs_1991-07-12": {
         "name": "Live @ JC Dobbs 1991-07-12",
         "year": 1991,
-        "info": "JC Dobbs in Philadelphia marks their first ever show in Philly, in July 12, 1991, and there’s a lot of history that comes with this. For a long time, this stood as the earliest boot that you could get your hands on where the band was using the name Pearl Jam instead of Mookie Blaylock. Along with that, it was the earliest boot where you could hear songs like Oceans, Jeremy and State Of Love And Trust. Eddie thanks the opening bands and makes a reference to Mother Love Bone playing there in the past.",
+        "info": "JC Dobbs in Philadelphia marks their first ever show in Philly, in July 12, 1991, and there\u2019s a lot of history that comes with this. For a long time, this stood as the earliest boot that you could get your hands on where the band was using the name Pearl Jam instead of Mookie Blaylock. Along with that, it was the earliest boot where you could hear songs like Oceans, Jeremy and State Of Love And Trust. Eddie thanks the opening bands and makes a reference to Mother Love Bone playing there in the past.",
         "artwork": [
             "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_JC_Dobbs_1991-07-12/artwork/01-cover.jpg",
             "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_JC_Dobbs_1991-07-12/artwork/02-note.jpg",
@@ -2783,7 +2782,7 @@
                 "duration": "3:49",
                 "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_The_Marquee_1991-07-13/02_Once.mp3",
                 "lyrics": ""
-            },            
+            },
             {
                 "id": 267,
                 "track": 3,
@@ -2845,7 +2844,7 @@
     "Live_@_Wetlands_Preserve_1991-07-17": {
         "name": "Live @ Wetlands Preserve 1991-07-17",
         "year": 1991,
-        "info": "Second show of the New Music Seminar, in New York City, NY, USA. Relaxed, fun performance. ''State Of Love And Trust'' is a bit different. Motörhead front man Lemmy Kilmister is among the audience members.",
+        "info": "Second show of the New Music Seminar, in New York City, NY, USA. Relaxed, fun performance. ''State Of Love And Trust'' is a bit different. Mot\u00f6rhead front man Lemmy Kilmister is among the audience members.",
         "artwork": [
             "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_Wetlands_Preserve_1991-07-17/artwork/01-cover.jpg",
             "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_Wetlands_Preserve_1991-07-17/artwork/02-cover.jpg",
@@ -2862,7 +2861,6 @@
             "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_Wetlands_Preserve_1991-07-17/artwork/12-shot.jpg",
             "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_Wetlands_Preserve_1991-07-17/artwork/13-shot.jpg",
             "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_Wetlands_Preserve_1991-07-17/artwork/14-shot.jpg"
-            
         ],
         "songs": [
             {
@@ -3539,6 +3537,74 @@
             }
         ]
     },
+    "Live_@_MSU_Auditorium_1991-10-23": {
+        "name": "Live @ MSU Auditorium 1991-10-23",
+        "year": 1991,
+        "info": "",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_MSU_Auditorium_1991-10-23/artwork/01-cover.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_MSU_Auditorium_1991-10-23/artwork/02-flyer.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_MSU_Auditorium_1991-10-23/artwork/03-banner.jpg"
+        ],
+        "songs": [
+            {
+                "id": 340,
+                "track": 1,
+                "title": "Wash",
+                "duration": "1:25",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_MSU_Auditorium_1991-10-23/01_Wash.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 341,
+                "track": 2,
+                "title": "Once",
+                "duration": "3:25",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_MSU_Auditorium_1991-10-23/02_Once.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 342,
+                "track": 3,
+                "title": "Even Flow",
+                "duration": "4:54",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_MSU_Auditorium_1991-10-23/03_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 343,
+                "track": 4,
+                "title": "Alive",
+                "duration": "5:35",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_MSU_Auditorium_1991-10-23/04_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 344,
+                "track": 5,
+                "title": "Jeremy",
+                "duration": "4:59",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_MSU_Auditorium_1991-10-23/05_Jeremy.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 345,
+                "track": 6,
+                "title": "Why Go",
+                "duration": "3:14",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_MSU_Auditorium_1991-10-23/06_Why_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 346,
+                "track": 7,
+                "title": "Porch",
+                "duration": "4:50",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_MSU_Auditorium_1991-10-23/07_Porch.mp3",
+                "lyrics": ""
+            }
+        ]
+    },
     "Live_@_Climate_Pledge_Arena_2024-05-30": {
         "name": "Live @ Climate Pledge Arena 2024-05-30",
         "year": 2024,
@@ -3550,7 +3616,7 @@
         ],
         "songs": [
             {
-                "id": 340,
+                "id": 347,
                 "track": 1,
                 "title": "Black",
                 "duration": "8:58",
@@ -3558,7 +3624,7 @@
                 "lyrics": ""
             },
             {
-                "id": 341,
+                "id": 348,
                 "track": 2,
                 "title": "Immortality",
                 "duration": "7:11",
@@ -3566,7 +3632,7 @@
                 "lyrics": ""
             },
             {
-                "id": 342,
+                "id": 349,
                 "track": 3,
                 "title": "Why Go",
                 "duration": "3:15",
@@ -3574,7 +3640,7 @@
                 "lyrics": ""
             },
             {
-                "id": 343,
+                "id": 350,
                 "track": 4,
                 "title": "Scared Of Fear",
                 "duration": "4:46",
@@ -3582,7 +3648,7 @@
                 "lyrics": ""
             },
             {
-                "id": 344,
+                "id": 351,
                 "track": 5,
                 "title": "React, Respond",
                 "duration": "3:47",
@@ -3590,7 +3656,7 @@
                 "lyrics": ""
             },
             {
-                "id": 345,
+                "id": 352,
                 "track": 6,
                 "title": "Wreckage",
                 "duration": "10:37",
@@ -3598,7 +3664,7 @@
                 "lyrics": ""
             },
             {
-                "id": 346,
+                "id": 353,
                 "track": 7,
                 "title": "Elderly Woman Behind The Counter In A Small Town",
                 "duration": "3:46",
@@ -3606,7 +3672,7 @@
                 "lyrics": ""
             },
             {
-                "id": 347,
+                "id": 354,
                 "track": 8,
                 "title": "Dark Matter",
                 "duration": "3:32",
@@ -3614,7 +3680,7 @@
                 "lyrics": ""
             },
             {
-                "id": 348,
+                "id": 355,
                 "track": 9,
                 "title": "Jeremy",
                 "duration": "8:31",
@@ -3622,7 +3688,7 @@
                 "lyrics": ""
             },
             {
-                "id": 349,
+                "id": 356,
                 "track": 10,
                 "title": "Come Back",
                 "duration": "5:12",
@@ -3630,7 +3696,7 @@
                 "lyrics": ""
             },
             {
-                "id": 350,
+                "id": 357,
                 "track": 11,
                 "title": "Corduroy",
                 "duration": "7:07",
@@ -3638,7 +3704,7 @@
                 "lyrics": ""
             },
             {
-                "id": 351,
+                "id": 358,
                 "track": 12,
                 "title": "Pilate",
                 "duration": "2:52",
@@ -3646,7 +3712,7 @@
                 "lyrics": ""
             },
             {
-                "id": 352,
+                "id": 359,
                 "track": 13,
                 "title": "In My Tree",
                 "duration": "4:50",
@@ -3654,7 +3720,7 @@
                 "lyrics": ""
             },
             {
-                "id": 353,
+                "id": 360,
                 "track": 14,
                 "title": "Upper Hand",
                 "duration": "6:36",
@@ -3662,7 +3728,7 @@
                 "lyrics": ""
             },
             {
-                "id": 354,
+                "id": 361,
                 "track": 15,
                 "title": "Waiting For Stevie",
                 "duration": "13:07",
@@ -3670,7 +3736,7 @@
                 "lyrics": ""
             },
             {
-                "id": 355,
+                "id": 362,
                 "track": 16,
                 "title": "Love Boat Captain",
                 "duration": "5:00",
@@ -3678,7 +3744,7 @@
                 "lyrics": ""
             },
             {
-                "id": 356,
+                "id": 363,
                 "track": 17,
                 "title": "Porch",
                 "duration": "6:50",
@@ -3686,7 +3752,7 @@
                 "lyrics": ""
             },
             {
-                "id": 357,
+                "id": 364,
                 "track": 18,
                 "title": "Encore Break",
                 "duration": "2:36",
@@ -3694,7 +3760,7 @@
                 "lyrics": ""
             },
             {
-                "id": 358,
+                "id": 365,
                 "track": 19,
                 "title": "Hurt",
                 "duration": "3:57",
@@ -3702,7 +3768,7 @@
                 "lyrics": ""
             },
             {
-                "id": 359,
+                "id": 366,
                 "track": 20,
                 "title": "Inside Job",
                 "duration": "6:05",
@@ -3710,7 +3776,7 @@
                 "lyrics": ""
             },
             {
-                "id": 360,
+                "id": 367,
                 "track": 21,
                 "title": "Running",
                 "duration": "2:29",
@@ -3718,7 +3784,7 @@
                 "lyrics": ""
             },
             {
-                "id": 361,
+                "id": 368,
                 "track": 22,
                 "title": "Spin The Black Circle",
                 "duration": "6:07",
@@ -3726,7 +3792,7 @@
                 "lyrics": ""
             },
             {
-                "id": 362,
+                "id": 369,
                 "track": 23,
                 "title": "Something Special",
                 "duration": "4:01",
@@ -3734,7 +3800,7 @@
                 "lyrics": ""
             },
             {
-                "id": 363,
+                "id": 370,
                 "track": 24,
                 "title": "Alive",
                 "duration": "8:04",
@@ -3742,7 +3808,7 @@
                 "lyrics": ""
             },
             {
-                "id": 364,
+                "id": 371,
                 "track": 25,
                 "title": "Rockin\\' In The Free World",
                 "duration": "8:11",
@@ -3750,7 +3816,7 @@
                 "lyrics": ""
             },
             {
-                "id": 365,
+                "id": 372,
                 "track": 26,
                 "title": "Setting Sun",
                 "duration": "6:40",
