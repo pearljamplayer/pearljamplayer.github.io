@@ -4334,6 +4334,176 @@
             }
         ]
     },
+    "Live_On_Ten_Legs_2011-01-17": {
+        "name": "Live On Ten Legs 2011-01-17",
+        "year": 2011,
+        "info": "Live on Ten Legs is a live album released on January 17, 2011. Composed of songs recorded during the band's 2003-2010 world tours, it is a companion piece to their 1998 live album, Live on Two Legs. All songs were remixed by longtime Pearl Jam engineer, Brett Eliason. The album packaging is similar to the previous official live compilation. Photos of the band in concert are featured on the inside of the cover. A gatefold opens to reveal photos of the road crew and full colour reproductions of various concert posters from the band's tours of this era.",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/01-cover.png",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/02-back.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/03-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/04-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/05-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/06-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/07-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/08-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/09-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/10-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/11-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/12-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/13-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/14-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/15-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/16-book.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb2011/main/Live_On_Ten_Legs_2011-01-17/artwork/17-book.jpg"
+        ],
+        "songs": [
+            {
+                "id": 430,
+                "track": 1,
+                "title": "Arms Aloft",
+                "duration": "3:27",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/01_Arms_Aloft.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 431,
+                "track": 2,
+                "title": "World Wide Suicide",
+                "duration": "3:16",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/02_World_Wide_Suicide.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 432,
+                "track": 3,
+                "title": "Animal",
+                "duration": "2:41",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/03_Animal.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 433,
+                "track": 4,
+                "title": "Got Some",
+                "duration": "2:57",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/04_Got_Some.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 434,
+                "track": 5,
+                "title": "State Of Love And Trust",
+                "duration": "3:18",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/05_State_Of_Love_And_Trust.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 435,
+                "track": 6,
+                "title": "I Am Mine",
+                "duration": "3:23",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/06_I_Am_Mine.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 436,
+                "track": 7,
+                "title": "Unthought Known",
+                "duration": "3:55",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/07_Unthought_Known.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 437,
+                "track": 8,
+                "title": "Rearviewmirror",
+                "duration": "7:00",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/08_Rearviewmirror.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 438,
+                "track": 9,
+                "title": "The Fixer",
+                "duration": "3:27",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/09_The_Fixer.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 439,
+                "track": 10,
+                "title": "Nothing As It Seems",
+                "duration": "5:13",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/10_Nothing_As_It_Seems.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 440,
+                "track": 11,
+                "title": "In Hiding",
+                "duration": "4:52",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/11_In_Hiding.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 441,
+                "track": 12,
+                "title": "Just Breathe",
+                "duration": "3:53",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/12_Just_Breathe.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 442,
+                "track": 13,
+                "title": "Jeremy",
+                "duration": "5:19",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/13_Jeremy.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 443,
+                "track": 14,
+                "title": "Public Image",
+                "duration": "2:52",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/14_Public_Image.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 444,
+                "track": 15,
+                "title": "Spin The Black Circle",
+                "duration": "3:05",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/15_Spin_The_Black_Circle.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 445,
+                "track": 16,
+                "title": "Porch",
+                "duration": "7:00",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/16_Porch.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 446,
+                "track": 17,
+                "title": "Alive",
+                "duration": "6:21",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/17_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 447,
+                "track": 18,
+                "title": "Yellow Ledbetter",
+                "duration": "5:20",
+                "url": "https://github.com/pearljamplayer/pjdb2011/raw/main/Live_On_Ten_Legs_2011-01-17/18_Yellow_Ledbetter.mp3",
+                "lyrics": ""
+            }
+        ]
+    },
     "Live_@_Climate_Pledge_Arena_2024-05-30": {
         "name": "Live @ Climate Pledge Arena 2024-05-30",
         "year": 2024,
@@ -4345,7 +4515,7 @@
         ],
         "songs": [
             {
-                "id": 430,
+                "id": 448,
                 "track": 1,
                 "title": "Black",
                 "duration": "8:58",
@@ -4353,7 +4523,7 @@
                 "lyrics": ""
             },
             {
-                "id": 431,
+                "id": 449,
                 "track": 2,
                 "title": "Immortality",
                 "duration": "7:11",
@@ -4361,7 +4531,7 @@
                 "lyrics": ""
             },
             {
-                "id": 432,
+                "id": 450,
                 "track": 3,
                 "title": "Why Go",
                 "duration": "3:15",
@@ -4369,7 +4539,7 @@
                 "lyrics": ""
             },
             {
-                "id": 433,
+                "id": 451,
                 "track": 4,
                 "title": "Scared Of Fear",
                 "duration": "4:46",
@@ -4377,7 +4547,7 @@
                 "lyrics": ""
             },
             {
-                "id": 434,
+                "id": 452,
                 "track": 5,
                 "title": "React, Respond",
                 "duration": "3:47",
@@ -4385,7 +4555,7 @@
                 "lyrics": ""
             },
             {
-                "id": 435,
+                "id": 453,
                 "track": 6,
                 "title": "Wreckage",
                 "duration": "10:37",
@@ -4393,7 +4563,7 @@
                 "lyrics": ""
             },
             {
-                "id": 436,
+                "id": 454,
                 "track": 7,
                 "title": "Elderly Woman Behind The Counter In A Small Town",
                 "duration": "3:46",
@@ -4401,7 +4571,7 @@
                 "lyrics": ""
             },
             {
-                "id": 437,
+                "id": 455,
                 "track": 8,
                 "title": "Dark Matter",
                 "duration": "3:32",
@@ -4409,7 +4579,7 @@
                 "lyrics": ""
             },
             {
-                "id": 438,
+                "id": 456,
                 "track": 9,
                 "title": "Jeremy",
                 "duration": "8:31",
@@ -4417,7 +4587,7 @@
                 "lyrics": ""
             },
             {
-                "id": 439,
+                "id": 457,
                 "track": 10,
                 "title": "Come Back",
                 "duration": "5:12",
@@ -4425,7 +4595,7 @@
                 "lyrics": ""
             },
             {
-                "id": 440,
+                "id": 458,
                 "track": 11,
                 "title": "Corduroy",
                 "duration": "7:07",
@@ -4433,7 +4603,7 @@
                 "lyrics": ""
             },
             {
-                "id": 441,
+                "id": 459,
                 "track": 12,
                 "title": "Pilate",
                 "duration": "2:52",
@@ -4441,7 +4611,7 @@
                 "lyrics": ""
             },
             {
-                "id": 442,
+                "id": 460,
                 "track": 13,
                 "title": "In My Tree",
                 "duration": "4:50",
@@ -4449,7 +4619,7 @@
                 "lyrics": ""
             },
             {
-                "id": 443,
+                "id": 461,
                 "track": 14,
                 "title": "Upper Hand",
                 "duration": "6:36",
@@ -4457,7 +4627,7 @@
                 "lyrics": ""
             },
             {
-                "id": 444,
+                "id": 462,
                 "track": 15,
                 "title": "Waiting For Stevie",
                 "duration": "13:07",
@@ -4465,7 +4635,7 @@
                 "lyrics": ""
             },
             {
-                "id": 445,
+                "id": 463,
                 "track": 16,
                 "title": "Love Boat Captain",
                 "duration": "5:00",
@@ -4473,7 +4643,7 @@
                 "lyrics": ""
             },
             {
-                "id": 446,
+                "id": 464,
                 "track": 17,
                 "title": "Porch",
                 "duration": "6:50",
@@ -4481,7 +4651,7 @@
                 "lyrics": ""
             },
             {
-                "id": 447,
+                "id": 465,
                 "track": 18,
                 "title": "Encore Break",
                 "duration": "2:36",
@@ -4489,7 +4659,7 @@
                 "lyrics": ""
             },
             {
-                "id": 448,
+                "id": 466,
                 "track": 19,
                 "title": "Hurt",
                 "duration": "3:57",
@@ -4497,7 +4667,7 @@
                 "lyrics": ""
             },
             {
-                "id": 449,
+                "id": 467,
                 "track": 20,
                 "title": "Inside Job",
                 "duration": "6:05",
@@ -4505,7 +4675,7 @@
                 "lyrics": ""
             },
             {
-                "id": 450,
+                "id": 468,
                 "track": 21,
                 "title": "Running",
                 "duration": "2:29",
@@ -4513,7 +4683,7 @@
                 "lyrics": ""
             },
             {
-                "id": 451,
+                "id": 469,
                 "track": 22,
                 "title": "Spin The Black Circle",
                 "duration": "6:07",
@@ -4521,7 +4691,7 @@
                 "lyrics": ""
             },
             {
-                "id": 452,
+                "id": 470,
                 "track": 23,
                 "title": "Something Special",
                 "duration": "4:01",
@@ -4529,7 +4699,7 @@
                 "lyrics": ""
             },
             {
-                "id": 453,
+                "id": 471,
                 "track": 24,
                 "title": "Alive",
                 "duration": "8:04",
@@ -4537,7 +4707,7 @@
                 "lyrics": ""
             },
             {
-                "id": 454,
+                "id": 472,
                 "track": 25,
                 "title": "Rockin\\' In The Free World",
                 "duration": "8:11",
@@ -4545,7 +4715,7 @@
                 "lyrics": ""
             },
             {
-                "id": 455,
+                "id": 473,
                 "track": 26,
                 "title": "Setting Sun",
                 "duration": "6:40",
