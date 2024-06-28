@@ -3685,6 +3685,270 @@
             }
         ]
     },
+    "Live_@_Concert_Hall_1991-10-30": {
+        "name": "Live @ Concert Hall 1991-10-30",
+        "year": 1991,
+        "info": "Concert happened at the Concert Hall, Toronto, Ontario, Canada. Before ''Oceans'' Eddie says: ''Last night everybody got crazy a little early, we're gonna start it off kinda slow tonight''. Eddie dedicates ''Alive'' to his Butthole Surfers t-shirt, saying: ''So tonight I break out my favorite Butthole Surfers t-shirt. The last time I wore it was in Chicago and I jumped in the crowd and they tore it to pieces, really pissed me off. But I got it back and tonight it lives!''.",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_Concert_Hall_1991-10-30/artwork/01-cover.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1991/main/Live_@_Concert_Hall_1991-10-30/artwork/02-ticket.jpg"
+        ],
+        "songs": [
+            {
+                "id": 355,
+                "track": 1,
+                "title": "Oceans",
+                "duration": "4:25",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_Concert_Hall_1991-10-30/01_Oceans.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 356,
+                "track": 2,
+                "title": "Even Flow",
+                "duration": "5:19",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_Concert_Hall_1991-10-30/02_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 357,
+                "track": 3,
+                "title": "Why Go",
+                "duration": "3:15",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_Concert_Hall_1991-10-30/03_Why_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 358,
+                "track": 4,
+                "title": "Jeremy",
+                "duration": "5:20",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_Concert_Hall_1991-10-30/04_Jeremy.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 359,
+                "track": 5,
+                "title": "Alive",
+                "duration": "5:42",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_Concert_Hall_1991-10-30/05_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 360,
+                "track": 6,
+                "title": "Once",
+                "duration": "3:42",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_Concert_Hall_1991-10-30/06_Once.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 361,
+                "track": 7,
+                "title": "Porch",
+                "duration": "4:48",
+                "url": "https://github.com/pearljamplayer/pjdb1991/raw/main/Live_@_Concert_Hall_1991-10-30/07_Porch.mp3",
+                "lyrics": ""
+            }
+        ]
+    },
+    "Dissident_Live_@_Fox_Theater_1994-04-03": {
+        "name": "Dissident Live @ Fox Theater 1994-04-03",
+        "year": 1994,
+        "info": "The concert happened at the Fox Theater, Atlanta, GA, USA.",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1994/main/Dissident_Live_@_Fox_Theater_1994-04-03/artwork/01-cover.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1994/main/Dissident_Live_@_Fox_Theater_1994-04-03/artwork/02-disc1.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1994/main/Dissident_Live_@_Fox_Theater_1994-04-03/artwork/03-disc2.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1994/main/Dissident_Live_@_Fox_Theater_1994-04-03/artwork/04-disc3.jpg"
+        ],
+        "songs": [
+            {
+                "id": 362,
+                "track": 1,
+                "title": "Dissident",
+                "duration": "3:50",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/01_Dissident.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 363,
+                "track": 2,
+                "title": "Release",
+                "duration": "3:50",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/02_Release.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 364,
+                "track": 3,
+                "title": "Rearviewmirror",
+                "duration": "5:30",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/03_Rearviewmirror.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 365,
+                "track": 4,
+                "title": "Even Flow",
+                "duration": "5:04",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/04_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 366,
+                "track": 5,
+                "title": "Dissident",
+                "duration": "3:24",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/05_Dissident.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 367,
+                "track": 6,
+                "title": "Why Go",
+                "duration": "3:49",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/06_Why_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 368,
+                "track": 7,
+                "title": "Deep",
+                "duration": "4:44",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/07_Deep.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 369,
+                "track": 8,
+                "title": "Jeremy",
+                "duration": "5:30",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/08_Jeremy.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 370,
+                "track": 9,
+                "title": "Glorified G",
+                "duration": "3:19",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/09_Glorified_G.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 371,
+                "track": 10,
+                "title": "Daughter",
+                "duration": "5:07",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/10_Daughter.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 372,
+                "track": 11,
+                "title": "Go",
+                "duration": "2:57",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/11_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 373,
+                "track": 12,
+                "title": "Animal",
+                "duration": "2:44",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/12_Animal.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 374,
+                "track": 13,
+                "title": "Garden",
+                "duration": "6:52",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/13_Garden.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 375,
+                "track": 14,
+                "title": "State Of Love And Trust",
+                "duration": "3:58",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/14_State_Of_Love_And_Trust.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 376,
+                "track": 15,
+                "title": "Black",
+                "duration": "5:45",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/15_Black.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 377,
+                "track": 16,
+                "title": "Alive",
+                "duration": "5:08",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/16_Alive.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 378,
+                "track": 17,
+                "title": "Blood",
+                "duration": "3:39",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/17_Blood.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 379,
+                "track": 18,
+                "title": "W.M.A.",
+                "duration": "6:25",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/18_W.M.A..mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 380,
+                "track": 19,
+                "title": "Elderly Woman Behind The Counter In A Small Town",
+                "duration": "3:43",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/19_Elderly_Woman_Behind_The_Counter_In_A_Small_Town.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 381,
+                "track": 20,
+                "title": "Rats",
+                "duration": "4:37",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/20_Rats.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 382,
+                "track": 21,
+                "title": "Once",
+                "duration": "3:21",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/21_Once.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 383,
+                "track": 22,
+                "title": "Porch",
+                "duration": "11:01",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/22_Porch.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 384,
+                "track": 23,
+                "title": "Indifference",
+                "duration": "5:00",
+                "url": "https://github.com/pearljamplayer/pjdb1994/raw/main/Dissident_Live_@_Fox_Theater_1994-04-03/23_Indifference.mp3",
+                "lyrics": ""
+            }
+        ]
+    },
     "Live_@_Climate_Pledge_Arena_2024-05-30": {
         "name": "Live @ Climate Pledge Arena 2024-05-30",
         "year": 2024,
@@ -3696,7 +3960,7 @@
         ],
         "songs": [
             {
-                "id": 355,
+                "id": 385,
                 "track": 1,
                 "title": "Black",
                 "duration": "8:58",
@@ -3704,7 +3968,7 @@
                 "lyrics": ""
             },
             {
-                "id": 356,
+                "id": 386,
                 "track": 2,
                 "title": "Immortality",
                 "duration": "7:11",
@@ -3712,7 +3976,7 @@
                 "lyrics": ""
             },
             {
-                "id": 357,
+                "id": 387,
                 "track": 3,
                 "title": "Why Go",
                 "duration": "3:15",
@@ -3720,7 +3984,7 @@
                 "lyrics": ""
             },
             {
-                "id": 358,
+                "id": 388,
                 "track": 4,
                 "title": "Scared Of Fear",
                 "duration": "4:46",
@@ -3728,7 +3992,7 @@
                 "lyrics": ""
             },
             {
-                "id": 359,
+                "id": 389,
                 "track": 5,
                 "title": "React, Respond",
                 "duration": "3:47",
@@ -3736,7 +4000,7 @@
                 "lyrics": ""
             },
             {
-                "id": 360,
+                "id": 390,
                 "track": 6,
                 "title": "Wreckage",
                 "duration": "10:37",
@@ -3744,7 +4008,7 @@
                 "lyrics": ""
             },
             {
-                "id": 361,
+                "id": 391,
                 "track": 7,
                 "title": "Elderly Woman Behind The Counter In A Small Town",
                 "duration": "3:46",
@@ -3752,7 +4016,7 @@
                 "lyrics": ""
             },
             {
-                "id": 362,
+                "id": 392,
                 "track": 8,
                 "title": "Dark Matter",
                 "duration": "3:32",
@@ -3760,7 +4024,7 @@
                 "lyrics": ""
             },
             {
-                "id": 363,
+                "id": 393,
                 "track": 9,
                 "title": "Jeremy",
                 "duration": "8:31",
@@ -3768,7 +4032,7 @@
                 "lyrics": ""
             },
             {
-                "id": 364,
+                "id": 394,
                 "track": 10,
                 "title": "Come Back",
                 "duration": "5:12",
@@ -3776,7 +4040,7 @@
                 "lyrics": ""
             },
             {
-                "id": 365,
+                "id": 395,
                 "track": 11,
                 "title": "Corduroy",
                 "duration": "7:07",
@@ -3784,7 +4048,7 @@
                 "lyrics": ""
             },
             {
-                "id": 366,
+                "id": 396,
                 "track": 12,
                 "title": "Pilate",
                 "duration": "2:52",
@@ -3792,7 +4056,7 @@
                 "lyrics": ""
             },
             {
-                "id": 367,
+                "id": 397,
                 "track": 13,
                 "title": "In My Tree",
                 "duration": "4:50",
@@ -3800,7 +4064,7 @@
                 "lyrics": ""
             },
             {
-                "id": 368,
+                "id": 398,
                 "track": 14,
                 "title": "Upper Hand",
                 "duration": "6:36",
@@ -3808,7 +4072,7 @@
                 "lyrics": ""
             },
             {
-                "id": 369,
+                "id": 399,
                 "track": 15,
                 "title": "Waiting For Stevie",
                 "duration": "13:07",
@@ -3816,7 +4080,7 @@
                 "lyrics": ""
             },
             {
-                "id": 370,
+                "id": 400,
                 "track": 16,
                 "title": "Love Boat Captain",
                 "duration": "5:00",
@@ -3824,7 +4088,7 @@
                 "lyrics": ""
             },
             {
-                "id": 371,
+                "id": 401,
                 "track": 17,
                 "title": "Porch",
                 "duration": "6:50",
@@ -3832,7 +4096,7 @@
                 "lyrics": ""
             },
             {
-                "id": 372,
+                "id": 402,
                 "track": 18,
                 "title": "Encore Break",
                 "duration": "2:36",
@@ -3840,7 +4104,7 @@
                 "lyrics": ""
             },
             {
-                "id": 373,
+                "id": 403,
                 "track": 19,
                 "title": "Hurt",
                 "duration": "3:57",
@@ -3848,7 +4112,7 @@
                 "lyrics": ""
             },
             {
-                "id": 374,
+                "id": 404,
                 "track": 20,
                 "title": "Inside Job",
                 "duration": "6:05",
@@ -3856,7 +4120,7 @@
                 "lyrics": ""
             },
             {
-                "id": 375,
+                "id": 405,
                 "track": 21,
                 "title": "Running",
                 "duration": "2:29",
@@ -3864,7 +4128,7 @@
                 "lyrics": ""
             },
             {
-                "id": 376,
+                "id": 406,
                 "track": 22,
                 "title": "Spin The Black Circle",
                 "duration": "6:07",
@@ -3872,7 +4136,7 @@
                 "lyrics": ""
             },
             {
-                "id": 377,
+                "id": 407,
                 "track": 23,
                 "title": "Something Special",
                 "duration": "4:01",
@@ -3880,7 +4144,7 @@
                 "lyrics": ""
             },
             {
-                "id": 378,
+                "id": 408,
                 "track": 24,
                 "title": "Alive",
                 "duration": "8:04",
@@ -3888,7 +4152,7 @@
                 "lyrics": ""
             },
             {
-                "id": 379,
+                "id": 409,
                 "track": 25,
                 "title": "Rockin\\' In The Free World",
                 "duration": "8:11",
@@ -3896,7 +4160,7 @@
                 "lyrics": ""
             },
             {
-                "id": 380,
+                "id": 410,
                 "track": 26,
                 "title": "Setting Sun",
                 "duration": "6:40",
