@@ -3949,6 +3949,147 @@
             }
         ]
     },
+    "Live_On_Two_Legs_1998-11-24": {
+        "name": "Live On Two Legs 1998-11-24",
+        "year": 1998,
+        "info": "Concerts happened at several location: Corduroy, United Center, Chicago, Illinois; Given to Fly, Breslin Student Events Center, East Lansing, Michigan; Hail, Hail, ARCO Arena, Sacramento, Califórnia; Daughter/Rockin' in the Free World/W.M.A., Constitution Hall, Washington, D.C.; Elderly Woman Behind the Counter in a Small Town, Coral Sky Amphitheatre, West Palm Beach, Flórida; Untitled, Merriweather Post Pavilion, Columbia, Maryland; MFC, Alpine Valley Music Theatre, East Troy, Wisconsin; Go, Continental Airlines Arena, East Rutherford, New Jersey; Red Mosquito, Blockbuster Music Entertainment Centre, Camden, New Jersey; Even Flow, Star Lake Amphitheatre, Pittsburgh, Pennsylvania and Hardee's Walnut Creek Amphitheatre, Raleigh, Carolina do Norte; Off He Goes, The Forum, Inglewood, Califórnia; Nothingman, Sandstone Amphitheater, Bonner Springs, Kansas; Do the Evolution, The Forum, Inglewood, Califórnia; Better Man, Rushmore Civic Center Arena, Rapid City, Dakota do Sul; Black, GTE Virginia Beach Amphitheater, Virginia Beach, Virginia; Fuckin' Up, Great Woods, Mansfield, Massachusetts. ''As a band we all agree that the 98 tour has been one of our most fulfilling and exhilarating to date. Our sincerest thanks to everyone that attended and participated. The band also owes a huge debt of gratitude to our crew and manager who have not only given us outstanding technical and organizational support over the years, but who have also become our friends and loved ones. These are some of the faces that made this last tour possible. Thanks again.''",
+        "artwork": [
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1998/main/Live_On_Two_Legs_1998-11-24/artwork/01-cover.png",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1998/main/Live_On_Two_Legs_1998-11-24/artwork/02-back.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1998/main/Live_On_Two_Legs_1998-11-24/artwork/03-inlay.jpg",
+            "https://raw.githubusercontent.com/pearljamplayer/pjdb1998/main/Live_On_Two_Legs_1998-11-24/artwork/04-inside.jpg"
+        ],
+        "songs": [
+            {
+                "id": 385,
+                "track": 1,
+                "title": "Corduroy",
+                "duration": "5:05",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/01_Corduroy.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 386,
+                "track": 2,
+                "title": "Given To Fly",
+                "duration": "3:53",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/02_Given_To_Fly.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 387,
+                "track": 3,
+                "title": "Hail, Hail",
+                "duration": "3:43",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/03_Hail,_Hail.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 388,
+                "track": 4,
+                "title": "Daughter",
+                "duration": "6:47",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/04_Daughter.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 389,
+                "track": 5,
+                "title": "Elderly Woman Behind The Counter In A Small Town",
+                "duration": "3:49",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/05_Elderly_Woman_Behind_The_Counter_In_A_Small_Town.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 390,
+                "track": 6,
+                "title": "Untitled",
+                "duration": "2:02",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/06_Untitled.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 391,
+                "track": 7,
+                "title": "MFC",
+                "duration": "2:28",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/07_MFC.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 392,
+                "track": 8,
+                "title": "Go",
+                "duration": "2:41",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/08_Go.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 393,
+                "track": 9,
+                "title": "Red Mosquito",
+                "duration": "4:02",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/09_Red_Mosquito.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 394,
+                "track": 10,
+                "title": "Even Flow",
+                "duration": "5:17",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/10_Even_Flow.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 395,
+                "track": 11,
+                "title": "Off He Goes",
+                "duration": "5:42",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/11_Off_He_Goes.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 396,
+                "track": 12,
+                "title": "Nothingman",
+                "duration": "4:38",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/12_Nothingman.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 397,
+                "track": 13,
+                "title": "Do The Evolution",
+                "duration": "3:45",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/13_Do_The_Evolution.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 398,
+                "track": 14,
+                "title": "Better Man",
+                "duration": "4:06",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/14_Better_Man.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 399,
+                "track": 15,
+                "title": "Black",
+                "duration": "6:55",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/15_Black.mp3",
+                "lyrics": ""
+            },
+            {
+                "id": 400,
+                "track": 16,
+                "title": "Fuckin\\' Up",
+                "duration": "6:17",
+                "url": "https://github.com/pearljamplayer/pjdb1998/raw/main/Live_On_Two_Legs_1998-11-24/16_Fuckin_Up.mp3",
+                "lyrics": ""
+            }
+        ]
+    },
     "Live_@_Climate_Pledge_Arena_2024-05-30": {
         "name": "Live @ Climate Pledge Arena 2024-05-30",
         "year": 2024,
@@ -3960,7 +4101,7 @@
         ],
         "songs": [
             {
-                "id": 385,
+                "id": 401,
                 "track": 1,
                 "title": "Black",
                 "duration": "8:58",
@@ -3968,7 +4109,7 @@
                 "lyrics": ""
             },
             {
-                "id": 386,
+                "id": 402,
                 "track": 2,
                 "title": "Immortality",
                 "duration": "7:11",
@@ -3976,7 +4117,7 @@
                 "lyrics": ""
             },
             {
-                "id": 387,
+                "id": 403,
                 "track": 3,
                 "title": "Why Go",
                 "duration": "3:15",
@@ -3984,7 +4125,7 @@
                 "lyrics": ""
             },
             {
-                "id": 388,
+                "id": 404,
                 "track": 4,
                 "title": "Scared Of Fear",
                 "duration": "4:46",
@@ -3992,7 +4133,7 @@
                 "lyrics": ""
             },
             {
-                "id": 389,
+                "id": 405,
                 "track": 5,
                 "title": "React, Respond",
                 "duration": "3:47",
@@ -4000,7 +4141,7 @@
                 "lyrics": ""
             },
             {
-                "id": 390,
+                "id": 406,
                 "track": 6,
                 "title": "Wreckage",
                 "duration": "10:37",
@@ -4008,7 +4149,7 @@
                 "lyrics": ""
             },
             {
-                "id": 391,
+                "id": 407,
                 "track": 7,
                 "title": "Elderly Woman Behind The Counter In A Small Town",
                 "duration": "3:46",
@@ -4016,7 +4157,7 @@
                 "lyrics": ""
             },
             {
-                "id": 392,
+                "id": 408,
                 "track": 8,
                 "title": "Dark Matter",
                 "duration": "3:32",
@@ -4024,7 +4165,7 @@
                 "lyrics": ""
             },
             {
-                "id": 393,
+                "id": 409,
                 "track": 9,
                 "title": "Jeremy",
                 "duration": "8:31",
@@ -4032,7 +4173,7 @@
                 "lyrics": ""
             },
             {
-                "id": 394,
+                "id": 410,
                 "track": 10,
                 "title": "Come Back",
                 "duration": "5:12",
@@ -4040,7 +4181,7 @@
                 "lyrics": ""
             },
             {
-                "id": 395,
+                "id": 411,
                 "track": 11,
                 "title": "Corduroy",
                 "duration": "7:07",
@@ -4048,7 +4189,7 @@
                 "lyrics": ""
             },
             {
-                "id": 396,
+                "id": 412,
                 "track": 12,
                 "title": "Pilate",
                 "duration": "2:52",
@@ -4056,7 +4197,7 @@
                 "lyrics": ""
             },
             {
-                "id": 397,
+                "id": 413,
                 "track": 13,
                 "title": "In My Tree",
                 "duration": "4:50",
@@ -4064,7 +4205,7 @@
                 "lyrics": ""
             },
             {
-                "id": 398,
+                "id": 414,
                 "track": 14,
                 "title": "Upper Hand",
                 "duration": "6:36",
@@ -4072,7 +4213,7 @@
                 "lyrics": ""
             },
             {
-                "id": 399,
+                "id": 415,
                 "track": 15,
                 "title": "Waiting For Stevie",
                 "duration": "13:07",
@@ -4080,7 +4221,7 @@
                 "lyrics": ""
             },
             {
-                "id": 400,
+                "id": 416,
                 "track": 16,
                 "title": "Love Boat Captain",
                 "duration": "5:00",
@@ -4088,7 +4229,7 @@
                 "lyrics": ""
             },
             {
-                "id": 401,
+                "id": 417,
                 "track": 17,
                 "title": "Porch",
                 "duration": "6:50",
@@ -4096,7 +4237,7 @@
                 "lyrics": ""
             },
             {
-                "id": 402,
+                "id": 418,
                 "track": 18,
                 "title": "Encore Break",
                 "duration": "2:36",
@@ -4104,7 +4245,7 @@
                 "lyrics": ""
             },
             {
-                "id": 403,
+                "id": 419,
                 "track": 19,
                 "title": "Hurt",
                 "duration": "3:57",
@@ -4112,7 +4253,7 @@
                 "lyrics": ""
             },
             {
-                "id": 404,
+                "id": 420,
                 "track": 20,
                 "title": "Inside Job",
                 "duration": "6:05",
@@ -4120,7 +4261,7 @@
                 "lyrics": ""
             },
             {
-                "id": 405,
+                "id": 421,
                 "track": 21,
                 "title": "Running",
                 "duration": "2:29",
@@ -4128,7 +4269,7 @@
                 "lyrics": ""
             },
             {
-                "id": 406,
+                "id": 422,
                 "track": 22,
                 "title": "Spin The Black Circle",
                 "duration": "6:07",
@@ -4136,7 +4277,7 @@
                 "lyrics": ""
             },
             {
-                "id": 407,
+                "id": 423,
                 "track": 23,
                 "title": "Something Special",
                 "duration": "4:01",
@@ -4144,7 +4285,7 @@
                 "lyrics": ""
             },
             {
-                "id": 408,
+                "id": 424,
                 "track": 24,
                 "title": "Alive",
                 "duration": "8:04",
@@ -4152,7 +4293,7 @@
                 "lyrics": ""
             },
             {
-                "id": 409,
+                "id": 425,
                 "track": 25,
                 "title": "Rockin\\' In The Free World",
                 "duration": "8:11",
@@ -4160,7 +4301,7 @@
                 "lyrics": ""
             },
             {
-                "id": 410,
+                "id": 426,
                 "track": 26,
                 "title": "Setting Sun",
                 "duration": "6:40",
