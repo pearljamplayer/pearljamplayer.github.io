@@ -4,6 +4,10 @@ var isRandom = false;
 var isRepeat = false;
 
 function main() {
+    window.addEventListener('load', function() {
+        window.scrollTo(0, 0);
+    });
+
     fetch('../json/albums.json')
         .then(response => {
             
@@ -192,36 +196,6 @@ function showAlbums(data)
         }
     }
 }
-
-/*function parseLrc(lyrics, currentTime) {
-    document.getElementById("layout_lyrics").innerHTML = "";
-
-    var lines = lyrics.split("\n");
-
-    var currentLine = "";
-    for (var i = 0; i < lines.length; i++) {
-        var line = lines[i];
-        var timeStartIndex = line.indexOf("[");
-        var timeEndIndex = line.indexOf("]");
-        var time = line.substring(timeStartIndex + 1, timeEndIndex);
-        var timeParts = time.split(":");
-        var minutes = parseInt(timeParts[0]);
-        var seconds = parseFloat(timeParts[1]);
-        var lineTime = minutes * 60 + seconds;
-
-        if (lineTime <= currentTime) {
-            currentLine = line.substring(timeEndIndex + 1);
-        }
-    }
-
-    var lyricsDiv = document.getElementById("layout_lyrics");
-    var linesArray = currentLine.split("<br>");
-    linesArray.forEach(function(line) {
-        var p = document.createElement("p");
-        p.textContent = line;
-        lyricsDiv.appendChild(p);
-    });
-}*/
 
 function parseLrc(lyrics, currentTime) {
     document.getElementById("layout_lyrics").innerHTML = "";
