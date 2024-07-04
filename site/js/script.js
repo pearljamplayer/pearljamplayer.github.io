@@ -34,7 +34,14 @@ function main() {
 
 function showAlbums(data)
 {
-    const albumsSection = document.getElementById('albums');
+    const albumsStudio = document.getElementById('albums_studio');
+    const albums1990 = document.getElementById('albums_1990');
+    const albums1991 = document.getElementById('albums_1991');
+    const albums1994 = document.getElementById('albums_1994');
+    const albums1998 = document.getElementById('albums_1998');
+    const albums2005 = document.getElementById('albums_2005');
+    const albums2011 = document.getElementById('albums_2011');
+    const albums2024 = document.getElementById('albums_2024');
 
     // loop through each album in the JSON data
     for (const album in data) {
@@ -169,7 +176,19 @@ function showAlbums(data)
             details.appendChild(songsList);
 
             // Append the album div to the albums section
-            albumsSection.appendChild(albumDiv);
+            if (albumData.type === "studio") {
+                albumsStudio.appendChild(albumDiv);
+            }else if (albumData.type === "live") {
+                switch (albumData.year) {
+                    case 1990: albums1990.appendChild(albumDiv); break;
+                    case 1991: albums1991.appendChild(albumDiv); break;
+                    case 1994: albums1994.appendChild(albumDiv); break;
+                    case 1998: albums1998.appendChild(albumDiv); break;
+                    case 2005: albums2005.appendChild(albumDiv); break;
+                    case 2011: albums2011.appendChild(albumDiv); break;
+                    case 2024: albums2024.appendChild(albumDiv); break;
+                }
+            }
         }
     }
 }

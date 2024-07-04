@@ -164,13 +164,27 @@ details {
 
 /* albums */
 
-.albums {
+.albums-studio,
+.albums-1990,
+.albums-1991, 
+.albums-1994,
+.albums-1998,
+.albums-2005,
+.albums-2011,
+.albums-2024 {
     text-align: center;
     margin: 20px;
 }
 
 @media screen and (min-width: 800px) {
-    .albums {
+    .albums-studio,
+    .albums-1990,
+    .albums-1991, 
+    .albums-1994,
+    .albums-1998,
+    .albums-2005,
+    .albums-2011,
+    .albums-2024 {
         width: 33%;
         margin-left: auto;
         margin-right: auto;        
