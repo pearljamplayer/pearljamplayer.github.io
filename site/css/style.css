@@ -439,6 +439,7 @@ li {
     }
 }
 
+.karaoke-btn,
 .play-random-btn,
 .play-repeat-btn,
 .before-track-btn, 
@@ -454,6 +455,7 @@ li {
     cursor: pointer;
 }
 
+.karaoke-btn:hover,
 .play-random-btn:hover,
 .play-repeat-btn:hover,
 .before-track-btn:hover, 

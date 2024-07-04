@@ -3,6 +3,7 @@ var lastSongId = 1;
 var currentSongId = 1;
 var isRandom = false;
 var isRepeat = false;
+var isKaraoke = false;
 
 function main() {
     window.addEventListener('load', function() {
@@ -175,7 +176,7 @@ function showAlbums(data)
             albumData.songs.forEach(song => {
                 const songItem = document.createElement('li');
                 let thisTitle = song.title.replace(/\\'/g, "'");
-                songItem.innerHTML = `<button id="${song.id}" class="album-track-btn" onclick="playSong('${song.id}','${albumData.name}','${albumSongsLength}','${albumData.artwork[0]}', '${song.url}','${song.title}','${song.track}','${song.duration}','${song.lyrics}')"><i id="iconpp${song.id}" class="fa fa-play-circle" aria-hidden="true"></i> ${thisTitle}</button>`;
+                songItem.innerHTML = `<button id="${song.id}" class="album-track-btn" onclick="playSong('${song.id}','${albumData.name}','${albumSongsLength}','${albumData.artwork[0]}', '${song.url}','${song.kurl}','${song.title}','${song.track}','${song.duration}','${song.lyrics}')"><i id="iconpp${song.id}" class="fa fa-play-circle" aria-hidden="true"></i> ${thisTitle}</button>`;
                 songsList.appendChild(songItem);
             });
             details.appendChild(songsList);
@@ -255,7 +256,7 @@ function parseLrc(lyrics, currentTime) {
     // end of lyrics
 }
 
-function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, songTitle, songTrack, songDuration, songLyrics) {
+function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, songKurl, songTitle, songTrack, songDuration, songLyrics) {
     var coverImg = document.getElementById("player-cover-img");
     var player = document.getElementById("player");
     var title = document.getElementById("song_title");
@@ -268,10 +269,14 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
     currentSongId = songId;
     
     coverImg.src = coverImgSrc;
-    var url = songUrl;
+    var url = songUrl; 
+    if (isKaraoke && songKurl != null) {
+        url = songKurl;
+    }
+
     title.textContent = albumName + " | " + songTrack + ". " + songTitle;
     duration.textContent = songDuration;
- 
+
     player.querySelector("source").src = url;
     player.load();
     player.play();
@@ -422,6 +427,21 @@ function doPlayPause()
         
         player.pause();
     }
+}
+
+function doKaraoke()
+{
+    var kbtn = document.getElementById('karaoke_btn');
+    
+    if (isKaraoke == true) {
+        kbtn.style.color = "#fff"
+        isKaraoke = false;
+    }else {
+        kbtn.style.color = "#ffa500"
+        isKaraoke = true;
+    }
+
+    console.log(isKaraoke);
 }
 
 function doBeforeTrack()
