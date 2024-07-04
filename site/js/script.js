@@ -326,7 +326,7 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
         }
     };
     
-    songItem.style.color = "#797979";
+    songItem.style.color = "#ffa500";
 
     console.log(isRandom);
 }
@@ -440,7 +440,7 @@ function playRandom()
         randomIcon.style.color = '#fff';
     }else {
         isRandom = true;
-        randomIcon.style.color = '#919191';
+        randomIcon.style.color = '#ffa500';
         repeatIcon.style.color = '#fff';
         if (nextButton) {
             nextButton.click();
@@ -457,7 +457,7 @@ function playRepeat()
         repeatIcon.style.color = '#fff';
     }else if (isRandom == false) { // repeat only if random is false
         isRepeat = true;
-        repeatIcon.style.color = '#919191';
+        repeatIcon.style.color = '#ffa500';
     }
 }
 

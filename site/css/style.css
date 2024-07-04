@@ -288,6 +288,14 @@ li {
     cursor: pointer;
 }
 
+.icon-list {
+
+}
+
+.icon-list:hover {
+    color:  #c74a34;
+}
+
  /* Image Modal */
  .modal {
     display: none; /* Escondido por padrão */
@@ -427,6 +435,17 @@ li {
     cursor: pointer;
 }
 
+.play-random-btn:hover,
+.play-repeat-btn:hover,
+.before-track-btn:hover, 
+.next-track-btn:hover, 
+.stop-btn:hover,
+.volume-inc:hover,
+.volume-dec:hover,
+.album-info:hover {
+    color: orange;
+}
+
 .play-pause-btn {
     font-size: 35px;
     border: none;
@@ -434,6 +453,10 @@ li {
     color: white;
     cursor: pointer;
 } 
+
+.play-pause-btn:hover {
+    color: orange;
+}
 
 .controls {
     margin-top: 10px;
@@ -464,7 +487,7 @@ li {
     height: 5px;
     cursor: pointer;
     animate: 0.2s;
-    background: white; /* Change this color to whatever you want */
+    background: white; 
     border-radius: 5px;
 }
 
@@ -475,7 +498,7 @@ li {
     border-radius: 50%;
     background: white;
     cursor: pointer;
-    margin-top: -5px; /* Offset the thumb position */
+    margin-top: -5px; 
 }
 
 /* Mozilla browsers */
@@ -484,7 +507,7 @@ li {
     height: 5px;
     cursor: pointer;
     animate: 0.2s;
-    background: white; /* Change this color to whatever you want */
+    background: white; 
     border-radius: 5px;
 }
 
@@ -492,7 +515,7 @@ li {
     height: 15px;
     width: 15px;
     border-radius: 50%;
-    background: white;
+    background: orange;
     cursor: pointer;
 }
 
@@ -508,7 +531,7 @@ li {
 }
 
 .time-range::-ms-fill-lower {
-    background: white; /* Change this color to whatever you want */
+    background: orange; 
     border-radius: 5px;
 }
 
