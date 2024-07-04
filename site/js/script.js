@@ -221,7 +221,6 @@ function parseLrc(lyrics, currentTime) {
     }
 
     var lyricsDiv = document.getElementById("layout_lyrics");
-    lyricsDiv.style.height = "150px";
 
     // past line
     if (currentIndex > 0) {

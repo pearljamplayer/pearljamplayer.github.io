@@ -104,7 +104,6 @@ details {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 0px; 
     justify-content: center;
     overflow: hidden;
 }
