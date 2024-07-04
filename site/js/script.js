@@ -269,8 +269,9 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
     currentSongId = songId;
     
     coverImg.src = coverImgSrc;
+    
     var url = songUrl; 
-    if (isKaraoke && songKurl != null) {
+    if (isKaraoke == true) {
         url = songKurl;
     }
 
@@ -376,8 +377,6 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
     };
     
     songItem.style.color = "#ffa500";
-
-    console.log(isRandom);
 }
 
 function doVolumeInc() {
@@ -432,7 +431,7 @@ function doPlayPause()
 function doKaraoke()
 {
     var kbtn = document.getElementById('karaoke_btn');
-    
+
     if (isKaraoke == true) {
         kbtn.style.color = "#fff"
         isKaraoke = false;
