@@ -1,5 +1,6 @@
 var maxSongs = 365;
-var currentSongId;
+var lastSongId = 1;
+var currentSongId = 1;
 var isRandom = false;
 var isRepeat = false;
 
@@ -263,6 +264,7 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
     var timeRange = document.querySelector(".time-range");
     var songItem = document.getElementById(songId);
 
+    lastSongId = currentSongId;
     currentSongId = songId;
     
     coverImg.src = coverImgSrc;
@@ -316,14 +318,25 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
         icon.classList.add('fa-pause-circle-o');
     }
 
-    var iid = "iconpp" + songId.toString();
+    var iid = "iconpp" + lastSongId.toString();
     var listIcon = document.getElementById(iid);
+    listIcon.classList.remove('fa-pause-circle');
+    listIcon.classList.add('fa-play-circle');
+
+    iid = "iconpp" + songId.toString();
+    listIcon = document.getElementById(iid);
     listIcon.classList.remove('fa-play-circle');
     listIcon.classList.add('fa-pause-circle');
         
     player.onended = function() {
         let thisSong = parseInt(currentSongId);
         if (isEnded) { // finish album
+
+            iid = "iconpp" + thisSong.toString();
+            listIcon = document.getElementById(iid);
+            listIcon.classList.remove('fa-pause-circle');
+            listIcon.classList.add('fa-play-circle');
+            
             player.pause();
             coverImg.src = "https://posterplus.com.au/files/2021/04/BLC5039-pearl-jam.jpg";
             var icon = document.querySelector('i.fa-pause-circle-o');
