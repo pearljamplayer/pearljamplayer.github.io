@@ -170,7 +170,7 @@ function showAlbums(data)
             albumData.songs.forEach(song => {
                 const songItem = document.createElement('li');
                 let thisTitle = song.title.replace(/\\'/g, "'");
-                songItem.innerHTML = `<button id="${song.id}" class="album-track-btn" onclick="playSong('${song.id}','${albumData.name}','${albumSongsLength}','${albumData.artwork[0]}', '${song.url}','${song.title}','${song.track}','${song.duration}','${song.lyrics}')">${song.track}. ${thisTitle}</button>`;
+                songItem.innerHTML = `<button id="${song.id}" class="album-track-btn" onclick="playSong('${song.id}','${albumData.name}','${albumSongsLength}','${albumData.artwork[0]}', '${song.url}','${song.title}','${song.track}','${song.duration}','${song.lyrics}')"><i id="iconpp${song.id}" class="fa fa-play-circle" aria-hidden="true"></i> ${thisTitle}</button>`;
                 songsList.appendChild(songItem);
             });
             details.appendChild(songsList);
@@ -233,7 +233,7 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
     var songItem = document.getElementById(songId);
 
     currentSongId = songId;
-
+    
     coverImg.src = coverImgSrc;
     var url = songUrl;
     title.textContent = albumName + " | " + songTrack + ". " + songTitle;
@@ -285,6 +285,11 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
         icon.classList.add('fa-pause-circle-o');
     }
 
+    var iid = "iconpp" + songId.toString();
+    var listIcon = document.getElementById(iid);
+    listIcon.classList.remove('fa-play-circle');
+    listIcon.classList.add('fa-pause-circle');
+        
     player.onended = function() {
         let thisSong = parseInt(currentSongId);
         if (isEnded) { // finish album
@@ -295,6 +300,7 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
                 icon.classList.remove('fa-pause-circle-o');
                 icon.classList.add('fa-play-circle-o');
             }
+
             currentSongId = 0;
             player.currentTime = 0;
             duration.textContent = "00:00";
@@ -309,7 +315,6 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
             }else {
                 nextSongTrack = thisSong + 1;
             }
-            
             
             // Select the button with the ID equal to the new songTrack
             var nextButton = document.getElementById(nextSongTrack);
@@ -343,13 +348,21 @@ function doVolumeDec() {
 function doPlayPause()
 {
     player = document.getElementById("player");
-
+    var iid = "iconpp" + currentSongId.toString();
+    var listIcon = document.getElementById(iid);
+    
     if (player.paused) {
         var icon = document.querySelector('i.fa-play-circle-o');
         if (icon) {
             icon.classList.remove('fa-play-circle-o');
             icon.classList.add('fa-pause-circle-o');
         }
+
+        if (listIcon) {
+            listIcon.classList.remove('fa-play-circle');
+            listIcon.classList.add('fa-pause-circle');
+        }
+
         player.play();
     }else {
         var icon = document.querySelector('i.fa-pause-circle-o');
@@ -357,6 +370,12 @@ function doPlayPause()
             icon.classList.remove('fa-pause-circle-o');
             icon.classList.add('fa-play-circle-o');
         }
+
+        if (listIcon) {
+            listIcon.classList.remove('fa-pause-circle');
+            listIcon.classList.add('fa-play-circle');
+        }
+        
         player.pause();
     }
 }
@@ -365,6 +384,11 @@ function doBeforeTrack()
 {
     let thisSong = parseInt(currentSongId);
     
+    var iid = "iconpp" + thisSong.toString();
+    var listIcon = document.getElementById(iid);
+    listIcon.classList.remove('fa-pause-circle');
+    listIcon.classList.add('fa-play-circle');
+
     let beforeSongTrack = thisSong - 1;
     if (isRandom == true) {
         beforeSongTrack = Math.floor(Math.random() * beforeSongTrack);
@@ -381,6 +405,11 @@ function doNextTrack()
 {
     let thisSong = parseInt(currentSongId);
 
+    var iid = "iconpp" + thisSong.toString();
+    var listIcon = document.getElementById(iid);
+    listIcon.classList.remove('fa-pause-circle');
+    listIcon.classList.add('fa-play-circle');
+
     let nextSongTrack = thisSong + 1;
     if (isRandom == true) {
         nextSongTrack = Math.floor(nextSongTrack + Math.random() * maxSongs);
@@ -395,6 +424,11 @@ function doNextTrack()
 
 function playRandom()
 {
+    var iid = "iconpp" + currentSongId.toString();
+    var listIcon = document.getElementById(iid);
+    listIcon.classList.remove('fa-pause-circle');
+    listIcon.classList.add('fa-play-circle');
+
     let thisSong = Math.floor(Math.random() * maxSongs);
     var nextButton = document.getElementById(thisSong);
     var randomIcon = document.getElementById('random_icon');
