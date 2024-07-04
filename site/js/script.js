@@ -221,6 +221,7 @@ function parseLrc(lyrics, currentTime) {
     }
 
     var lyricsDiv = document.getElementById("layout_lyrics");
+    lyricsDiv.style.height = "150px";
 
     // past line
     if (currentIndex > 0) {
@@ -250,7 +251,8 @@ function parseLrc(lyrics, currentTime) {
         p.textContent = futureLine;
         p.classList.add("future-line");
         lyricsDiv.appendChild(p);
-    }
+    } 
+    // end of lyrics
 }
 
 function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, songTitle, songTrack, songDuration, songLyrics) {
@@ -304,7 +306,7 @@ function playSong(songId, albumName, albumSongsLength, coverImgSrc, songUrl, son
         currentTime.textContent = formatTime(currentSeconds);
         timeRange.value = currentSeconds;
 
-        if (songLyrics != null) {
+        if (songLyrics !== null) {
             parseLrc(songLyrics, currentSeconds);
         }
     };
