@@ -4,7 +4,7 @@ var isRandom = false;
 var isRepeat = false;
 
 function main() {
-    fetch('albums.json')
+    fetch('../json/albums.json')
         .then(response => {
             
         if (!response.ok) {
@@ -56,7 +56,7 @@ function showAlbums(data)
                 const coverImg = document.createElement('img');
                 coverImg.classList.add('cover-img', 'lazy');
                 coverImg.setAttribute('data-src', albumData.artwork[0]);
-                coverImg.src = "./loading.jpg";
+                coverImg.src = "../img/loading.jpg";
                 summary.appendChild(coverImg);
             }
 
@@ -123,7 +123,7 @@ function showAlbums(data)
                 const imageItem = document.createElement('img');
                 imageItem.classList.add('image-item', 'lazy');
                 imageItem.setAttribute('data-src', albumData.artwork[index]);
-                imageItem.src = "./loading.jpg";
+                imageItem.src = "../img/loading.jpg";
                 imageItem.onclick = () => {
                     expandImg(imageItem.src);
                 };
