@@ -4,12 +4,3 @@ RewriteEngine On
 
 RewriteCond %{REQUEST_URI} !/404.html$
 RewriteRule !\.(html|js|css|png)$ /404.html [L,R=301]
-
-RewriteBase /
-
-# Verifica se a requisição não é para um arquivo existente
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-
-# Reescreve a URL para /site/src/main.html internamente
-RewriteRule ^$ /site/src/main.html [L]
