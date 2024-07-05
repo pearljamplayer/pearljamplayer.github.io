@@ -4,3 +4,6 @@ RewriteEngine On
 
 RewriteCond %{REQUEST_URI} !/404.html$
 RewriteRule !\.(html|js|css|png)$ /404.html [L,R=301]
+
+RewriteCond %{REQUEST_URI} !^/site/src/index\.html
+RewriteRule ^(.*)$ /site/src/index.html [L]
