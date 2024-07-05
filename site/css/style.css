@@ -307,12 +307,12 @@ li {
     cursor: pointer;
 }
 
-.icon-list {
-
+.album-track-btn:hover {
+    color: #ffa500;
 }
 
-.icon-list:hover {
-    color:  #c74a34;
+.icon-list {
+
 }
 
  /* Image Modal */
